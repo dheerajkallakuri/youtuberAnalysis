@@ -1,0 +1,12 @@
+ctransformers
+google-api-python-client
+huggingface-hub
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langsmith
+MarkupSafe
+PyQt5
+requests
+
